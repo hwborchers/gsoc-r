@@ -1,6 +1,6 @@
-# GSoC-R 2008-2011
+# GSoC-R 2008-2014
 
-Information about Google Summer of Code (GSoC) Projects during 2008-2014 of the R Project for Statistical Computing
+Information about Google Summer of Code (GSoC) Projects of the R Project for Statistical Computing during the years 2008-2014 
 
 ## Accepted Projects
 
@@ -104,3 +104,20 @@ Information about Google Summer of Code (GSoC) Projects during 2008-2014 of the 
 
 | Project | Student | Mentor(s) | Y/N |
 |---------|---------|-----------|-----|
+| animint | Carson Sievert | Toby Dylan Hocking, Susan VanderPlas |  |
+| pbdPROF: Profiling Tools for High Performance Computing with R | Christian Heckendorf | Wei-Chen Chen, Drew |  |
+| Generalized Linear Mixed Models via Monte Carlo Likelihood Approximation | Christina Knudson | Charles J. Geyer, Galin Jones |  |
+| Kernel Density Estimation and Nonparametric Discriminant Analysis for FD | dapr12 | Virgilio Gomez-Rubio, Peter Foster |  |
+| Improving the R-interactive-Graphics-via-HTml (RIGHT) Package | Jong Hyun Bae | Junghoon |  |
+| rOptManifold: An R Package for Optimization over Matrix Manifolds | Kejun He | Jianhua, Yihui Xie |  |
+| Tools for composite index analysis | Keshav Pratap | Valentin |  |
+| PhyloVS: phylogeny-constrained regularization and variable selection | lichenbiostat86 | Jun Chen |  |
+| Spot volatility estimation: Methods and applications | Maarten Schermer | Jonathan Cornelissen, kris.boudt, Daniele Signori |  |
+| Tools for pre and post processing of data for Ecological niche models | Narayani Barve | RobGur, Jorge Soberon |  |
+| Extending mzR | Qiang Kou | Steffen Neumann, cbeleites, Laurent |  |
+| Turning R objects into Pandoc's markdown | Roman Tsegelskyi | Gergely Daroczi |  |
+| PortfolioAnalytics_Ross_Bennett | Ross Bennett | Doug Martin, Brian G. Peterson, Peter Carl |  |
+| Proposal_FactorAnalytics_Sangeetha_Srinivasan | Sangeetha Srinivasan | Eric Zivot, Doug Martin, Guy Yollin, Peter Carl |  |
+| bdvis: Biodiversity data visualizations | Vijay Barve | Virgilio Gomez-Rubio, Jorge Soberon |  |
+| Dimension Reduction Methods for Multivariate Time Series | wbnicholson | jbien, David S. Matteson |  |
+| GenPCA: A Generalized PCA Toolkit for High-dimensional Data Analysis in R| Xingguo | tourzhao |  |
