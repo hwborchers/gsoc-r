@@ -81,3 +81,26 @@ Information about Google Summer of Code (GSoC) Projects during 2008-2014 of the 
 | Project | Student | Mentor(s) | Y/N |
 |---------|---------|-----------|-----|
 | R Interactive Graphics via HTml | Chung Ha SUNG | Jae W. Lee, Junghoon Lee |  |
+| Implement/Port Spectral Unmixing Methods to R | Conor McManus | Claudia Beleites, Simon Fuller |  |
+| Improving rapport and pander packages | Dániel Nagy | Gergely Daróczi, Aleksandar Blagotić |  |
+| Improvements to data construction, subsetting, and manipulation for time series data | EvilTosha | Michael Weylandt, Joshua Ulrich, Peter Carl, Brian G. Peterson, Paul Teetor |  |
+| Profiling Tools for Parallel Computing with R | Gaurav Sehrawat | ostrouchovg, Drew, Wei-Chen Chen |  |
+| Highfrequency: add inferential methods to highfrequency | giangnguyen | Kris Boudt, Jonathancornelissen, Brian G. Peterson, Daniele Signori |  |
+| Addressing IID Assumptions in Finance: Autocorrelation and Drawdowns in Performance Analysis | pulkit | Paul Teetor, Peter Carl, Doug Martin, Brian G. Peterson, Daniele Signori |  |
+| robgpu | Roland Boubela | Andreas |  |
+| PortfolioAnalytics | Ross Bennett | Paul Teetor, Peter Carl, Guy Yollin, Brian G. Peterson, Doug Martin |  |
+| Addressing IID Assumptions in Finance: Autocorrelation and Drawdowns in Performance Analysis | Shubhankit Mohan | Paul Teetor, Peter Carl, Doug Martin, Brian G. Peterson, Daniele Signori |  |
+| Improve display of imported vector graphics in R | Simon Potter | Toby Dylan Hocking, Paul Murrell |  |
+| Improve rendering of animated/interactive ggplots in d3 using animint | Susan VanderPlas | Toby Dylan Hocking |  |
+| Handle parallel (vectorized) objective functions in a new optimization wrapper package | thirdwing | Y. Richet, Joshua Ulrich |  |
+| CAMEL: Calibrated Machine Learning | Tour | Han Liu |  |
+| Biodiversity data visualization in R | vijaybarve | Javier Otegui, Virgilio Gómez-Rubio |  |
+| Collection of functionality ported from the MATLAB code of Attilio Meucci | Xavi | David Ardia, Brian G. Peterson, Peter Carl |  |
+| A package extension for Exponential Random Graph Model with block structure | Xiaolin Yang | Michael Rosenblum, Han Liu |  |
+| Linear factor model for asset returns | Yi-An Chen | Brian G. Peterson, Peter Carl, Eric Zivot, Doug Martin |  |
+
+
+### 2014
+
+| Project | Student | Mentor(s) | Y/N |
+|---------|---------|-----------|-----|
