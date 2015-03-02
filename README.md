@@ -1,6 +1,18 @@
 # GSoC-R 2008-2014
 
-Information about Google Summer of Code (GSoC) Projects of the R Project for Statistical Computing during the years 2008-2014 
+Information about Google Summer of Code (GSoC) Projects of the R Project for Statistical Computing during the years 2008-2014
+
+*Remark*: To find the accepted and successful GSoC-R projects from 2009 to 2014, go to one of the Melange pages
+
+[gsoc2009](http://www.google-melange.com/gsoc/homepage/google/gsoc2009) |
+[gsoc2010](http://www.google-melange.com/gsoc/homepage/google/gsoc2010) |
+[gsoc2011](http://www.google-melange.com/gsoc/homepage/google/gsoc2011) |
+[gsoc2012](http://www.google-melange.com/gsoc/homepage/google/gsoc2012) |
+[gsoc2013](http://www.google-melange.com/gsoc/homepage/google/gsoc2013) |
+[gsoc2014](http://www.google-melange.com/gsoc/homepage/google/gsoc2014)
+
+(or "Select Program" on the right) and then click on "Accepted Projects" on the left. In the table that appears, enter "R Project for Statistical Computing" (2010-2014) or "R Foundation for Statistical Computing" (2009) as 'Organization', and the GSoC-R projects of that year will get listed.
+
 
 ## Accepted Projects
 
@@ -13,6 +25,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | lme4: Adaptive Gauss-Hermite quadrature method<br> for mixed-effects models | Bin Dai | Douglas M. Bates | ? |
 | Connecting R and PostgreSQL using DBI | Sameer Kumar Prayaga | Dirk Eddelbuettel | ? |
 
+For more information about these projects see the [Projects 2008](http://www.r-project.org/gsoc/2008/) and the [ideas list](http://www.r-project.org/gsoc/2008/ideas.html) pages on the R-Project server.
+
 
 ### 2009
 
@@ -23,6 +37,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | RQuantLib - Bridging R and QuantLib | Khanh Nguyen | Dirk Eddelbuettel |  |
 | "You can't control what you can't measure" | mariane | Manuel Eugster |  |
 
+For more information about these projects see the [Projects 2009](http://www.r-project.org/gsoc/2009/) and the [ideas list](http://www.r-project.org/gsoc/2009/ideas.html) pages on the R-Project server.
+
 
 ### 2010
 
@@ -32,6 +48,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | Social Relations Analyses in R | Felix Schönbrodt | schmukle |  |
 | A GUI for Graphics Using ggplot2 and Deducer | Ian Fellows | hadley |  |
 | rgeos - an R wrapper for GEOS | rundel | Roger Bivand |  |
+
+For more information about these projects see the [Projects 2010](http://www.r-project.org/gsoc/2010/) page on the R-Project server. Results of finished projects are available on the [gsoc-2010-r-project](https://code.google.com/p/google-summer-of-code-2010-r-project/) page.
 
 
 ### 2011
@@ -52,6 +70,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | Cranvastime: Interactive longitudinal and temporal data plots | Xiaoyue Cheng | Di Cook, Heike Hofmann |  |
 | Proposal for Components in TradeAnalytics Toolchain enhancements | Y.Chen | Brian G. Peterson |  |
 | A GUI based package to assist optimization problems in R | yixuan | nashjc |  |
+
+For more information about these projects see the [Projects 2011](http://www.r-project.org/gsoc/2011/) on the R-Project server. Unfortunately, the RWiki page for collecting and discussing ideas is not online anymore.
 
 
 ### 2012
@@ -74,6 +94,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | SAM: A General-purpose Classifier for Modern Predictive Data Analysis | Tour | Roeder |  |
 | Access and visualization of biodiversity data in R | vijaybarve | Scott Chamberlain |  |
 | Biganalysis: A robust, general-purpose R package for large scale classification | Xiaolin Yang | Han Liu |  |
+
+For more information about the proposed and accepted projects (originally discussed on RWiki) see the archived [wayback machine](http://web.archive.org/web/20131109220427/http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2012) page from November 9, 2013.
 
 
 ### 2013
@@ -99,6 +121,8 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | A package extension for Exponential Random Graph Model with block structure | Xiaolin Yang | Michael Rosenblum, Han Liu |  |
 | Linear factor model for asset returns | Yi-An Chen | Brian G. Peterson, Peter Carl, Eric Zivot, Doug Martin |  |
 
+For more information about the proposed and accepted projects (originally discussed on RWiki) see the archived [wayback machine](http://web.archive.org/web/20131209070027/http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2013) page from December 9, 2013.
+
 
 ### 2014
 
@@ -121,3 +145,5 @@ Information about Google Summer of Code (GSoC) Projects of the R Project for Sta
 | bdvis: Biodiversity data visualizations | Vijay Barve | Virgilio Gomez-Rubio, Jorge Soberon |  |
 | Dimension Reduction Methods for Multivariate Time Series | wbnicholson | jbien, David S. Matteson |  |
 | GenPCA: A Generalized PCA Toolkit for High-dimensional Data Analysis in R| Xingguo | tourzhao |  |
+
+For more information about the proposed and accepted projects see the archived copies of the [RWiki list](https://github.com/rstats-gsoc/gsoc2015/tree/master/RWiki) of proposed and accepted projects 2014 on the rstats-gsoc GitHub repository.
